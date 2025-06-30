@@ -63,6 +63,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'projectsApi',
     'rest_framework',
+    'autenticationWeb',
 ]
 
 # --- Middleware ---
